@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Riz7886.github.io/notes-wazn9r/sitemap.xml
